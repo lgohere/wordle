@@ -1,7 +1,7 @@
 
 @font-face {
     font-family: "Wordle"; 
-    src: url("fonts/karnakcondensed-normal-700.woff") format("woff");
+    src: url("../fonts/karnakcondensed-normal-700.woff") format("woff");
   }
   
   .wordle-ft {
